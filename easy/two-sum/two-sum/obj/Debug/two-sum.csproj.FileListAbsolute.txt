@@ -1,0 +1,8 @@
+D:\leetcode-solves\two-sum\two-sum\bin\Debug\two-sum.exe.config
+D:\leetcode-solves\two-sum\two-sum\bin\Debug\two-sum.exe
+D:\leetcode-solves\two-sum\two-sum\bin\Debug\two-sum.pdb
+D:\leetcode-solves\two-sum\two-sum\obj\Debug\two-sum.csproj.AssemblyReference.cache
+D:\leetcode-solves\two-sum\two-sum\obj\Debug\two-sum.csproj.CoreCompileInputs.cache
+D:\leetcode-solves\two-sum\two-sum\obj\Debug\two-sum.exe
+D:\leetcode-solves\two-sum\two-sum\obj\Debug\two-sum.pdb
+D:\leetcode-solves\two-sum\two-sum\obj\Debug\two-sum.exe.config

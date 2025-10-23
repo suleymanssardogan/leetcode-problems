@@ -1,0 +1,7 @@
+D:\leetcode-solves\valid-parentheses\valid-parentheses\bin\Debug\valid-parentheses.exe.config
+D:\leetcode-solves\valid-parentheses\valid-parentheses\bin\Debug\valid-parentheses.exe
+D:\leetcode-solves\valid-parentheses\valid-parentheses\bin\Debug\valid-parentheses.pdb
+D:\leetcode-solves\valid-parentheses\valid-parentheses\obj\Debug\valid-parentheses.csproj.AssemblyReference.cache
+D:\leetcode-solves\valid-parentheses\valid-parentheses\obj\Debug\valid-parentheses.csproj.CoreCompileInputs.cache
+D:\leetcode-solves\valid-parentheses\valid-parentheses\obj\Debug\valid-parentheses.exe
+D:\leetcode-solves\valid-parentheses\valid-parentheses\obj\Debug\valid-parentheses.pdb

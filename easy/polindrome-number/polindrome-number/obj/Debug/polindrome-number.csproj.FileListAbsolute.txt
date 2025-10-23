@@ -1,0 +1,8 @@
+D:\leetcode-solves\polindrome-number\polindrome-number\bin\Debug\polindrome-number.exe.config
+D:\leetcode-solves\polindrome-number\polindrome-number\bin\Debug\polindrome-number.exe
+D:\leetcode-solves\polindrome-number\polindrome-number\bin\Debug\polindrome-number.pdb
+D:\leetcode-solves\polindrome-number\polindrome-number\obj\Debug\polindrome-number.csproj.AssemblyReference.cache
+D:\leetcode-solves\polindrome-number\polindrome-number\obj\Debug\polindrome-number.csproj.CoreCompileInputs.cache
+D:\leetcode-solves\polindrome-number\polindrome-number\obj\Debug\polindrome-number.exe
+D:\leetcode-solves\polindrome-number\polindrome-number\obj\Debug\polindrome-number.pdb
+D:\leetcode-solves\polindrome-number\polindrome-number\obj\Debug\polindrome-number.exe.config

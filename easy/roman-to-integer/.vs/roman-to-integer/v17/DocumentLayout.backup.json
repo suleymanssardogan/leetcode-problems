@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\leetcode-solves\\roman-to-integer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{447DAB85-277E-4C3E-9B34-60EDA96F33DE}|roman-to-integer\\roman-to-integer.csproj|d:\\leetcode-solves\\roman-to-integer\\roman-to-integer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447DAB85-277E-4C3E-9B34-60EDA96F33DE}|roman-to-integer\\roman-to-integer.csproj|solutionrelative:roman-to-integer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\leetcode-solves\\roman-to-integer\\roman-to-integer\\Program.cs",
+              "RelativeDocumentMoniker": "roman-to-integer\\Program.cs",
+              "ToolTip": "D:\\leetcode-solves\\roman-to-integer\\roman-to-integer\\Program.cs",
+              "RelativeToolTip": "roman-to-integer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:57:51.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
