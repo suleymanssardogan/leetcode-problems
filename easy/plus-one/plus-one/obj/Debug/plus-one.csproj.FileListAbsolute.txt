@@ -1,0 +1,8 @@
+D:\leetcode-solves\plus-one\plus-one\bin\Debug\plus-one.exe.config
+D:\leetcode-solves\plus-one\plus-one\bin\Debug\plus-one.exe
+D:\leetcode-solves\plus-one\plus-one\bin\Debug\plus-one.pdb
+D:\leetcode-solves\plus-one\plus-one\obj\Debug\plus-one.csproj.AssemblyReference.cache
+D:\leetcode-solves\plus-one\plus-one\obj\Debug\plus-one.csproj.CoreCompileInputs.cache
+D:\leetcode-solves\plus-one\plus-one\obj\Debug\plus-one.exe
+D:\leetcode-solves\plus-one\plus-one\obj\Debug\plus-one.pdb
+D:\leetcode-solves\plus-one\plus-one\obj\Debug\plus-one.exe.config
