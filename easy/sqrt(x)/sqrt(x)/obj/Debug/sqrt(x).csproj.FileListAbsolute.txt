@@ -1,0 +1,8 @@
+D:\leetcode-solves\sqrt(x)\sqrt(x)\bin\Debug\sqrt(x).exe.config
+D:\leetcode-solves\sqrt(x)\sqrt(x)\bin\Debug\sqrt(x).exe
+D:\leetcode-solves\sqrt(x)\sqrt(x)\bin\Debug\sqrt(x).pdb
+D:\leetcode-solves\sqrt(x)\sqrt(x)\obj\Debug\sqrt(x).csproj.AssemblyReference.cache
+D:\leetcode-solves\sqrt(x)\sqrt(x)\obj\Debug\sqrt(x).csproj.CoreCompileInputs.cache
+D:\leetcode-solves\sqrt(x)\sqrt(x)\obj\Debug\sqrt(x).exe
+D:\leetcode-solves\sqrt(x)\sqrt(x)\obj\Debug\sqrt(x).pdb
+D:\leetcode-solves\sqrt(x)\sqrt(x)\obj\Debug\sqrt(x).exe.config
