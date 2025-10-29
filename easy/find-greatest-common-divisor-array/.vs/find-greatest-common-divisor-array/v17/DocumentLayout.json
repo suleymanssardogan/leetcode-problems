@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\leetcode-solves\\find-greatest-common-divisor-array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E98E5710-0471-46A5-8419-8717FB572133}|find-greatest-common-divisor-array\\find-greatest-common-divisor-array.csproj|d:\\leetcode-solves\\find-greatest-common-divisor-array\\find-greatest-common-divisor-array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98E5710-0471-46A5-8419-8717FB572133}|find-greatest-common-divisor-array\\find-greatest-common-divisor-array.csproj|solutionrelative:find-greatest-common-divisor-array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\leetcode-solves\\find-greatest-common-divisor-array\\find-greatest-common-divisor-array\\Program.cs",
+              "RelativeDocumentMoniker": "find-greatest-common-divisor-array\\Program.cs",
+              "ToolTip": "D:\\leetcode-solves\\find-greatest-common-divisor-array\\find-greatest-common-divisor-array\\Program.cs",
+              "RelativeToolTip": "find-greatest-common-divisor-array\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T08:28:28.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
