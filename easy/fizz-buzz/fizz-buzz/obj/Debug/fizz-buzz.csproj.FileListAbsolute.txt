@@ -1,0 +1,8 @@
+D:\leetcode-solves\fizz-buzz\fizz-buzz\obj\Debug\fizz-buzz.csproj.AssemblyReference.cache
+D:\leetcode-solves\fizz-buzz\fizz-buzz\obj\Debug\fizz-buzz.csproj.CoreCompileInputs.cache
+D:\leetcode-solves\fizz-buzz\fizz-buzz\bin\Debug\fizz-buzz.exe.config
+D:\leetcode-solves\fizz-buzz\fizz-buzz\bin\Debug\fizz-buzz.exe
+D:\leetcode-solves\fizz-buzz\fizz-buzz\bin\Debug\fizz-buzz.pdb
+D:\leetcode-solves\fizz-buzz\fizz-buzz\obj\Debug\fizz-buzz.exe
+D:\leetcode-solves\fizz-buzz\fizz-buzz\obj\Debug\fizz-buzz.pdb
+D:\leetcode-solves\fizz-buzz\fizz-buzz\obj\Debug\fizz-buzz.exe.config
