@@ -1,0 +1,8 @@
+D:\leetcode-solves\single-number\single-number\bin\Debug\single-number.exe.config
+D:\leetcode-solves\single-number\single-number\bin\Debug\single-number.exe
+D:\leetcode-solves\single-number\single-number\bin\Debug\single-number.pdb
+D:\leetcode-solves\single-number\single-number\obj\Debug\single-number.csproj.AssemblyReference.cache
+D:\leetcode-solves\single-number\single-number\obj\Debug\single-number.csproj.CoreCompileInputs.cache
+D:\leetcode-solves\single-number\single-number\obj\Debug\single-number.exe
+D:\leetcode-solves\single-number\single-number\obj\Debug\single-number.pdb
+D:\leetcode-solves\single-number\single-number\obj\Debug\single-number.exe.config
