@@ -1,0 +1,8 @@
+D:\leetcode-solves\power-of-two\power-of-two\bin\Debug\power-of-two.exe.config
+D:\leetcode-solves\power-of-two\power-of-two\bin\Debug\power-of-two.exe
+D:\leetcode-solves\power-of-two\power-of-two\bin\Debug\power-of-two.pdb
+D:\leetcode-solves\power-of-two\power-of-two\obj\Debug\power-of-two.csproj.AssemblyReference.cache
+D:\leetcode-solves\power-of-two\power-of-two\obj\Debug\power-of-two.csproj.CoreCompileInputs.cache
+D:\leetcode-solves\power-of-two\power-of-two\obj\Debug\power-of-two.exe
+D:\leetcode-solves\power-of-two\power-of-two\obj\Debug\power-of-two.pdb
+D:\leetcode-solves\power-of-two\power-of-two\obj\Debug\power-of-two.exe.config
