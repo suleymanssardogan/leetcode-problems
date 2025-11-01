@@ -1,0 +1,7 @@
+D:\leetcode-solves\majority-element\majority-element\bin\Debug\majority-element.exe.config
+D:\leetcode-solves\majority-element\majority-element\bin\Debug\majority-element.exe
+D:\leetcode-solves\majority-element\majority-element\bin\Debug\majority-element.pdb
+D:\leetcode-solves\majority-element\majority-element\obj\Debug\majority-element.csproj.AssemblyReference.cache
+D:\leetcode-solves\majority-element\majority-element\obj\Debug\majority-element.csproj.CoreCompileInputs.cache
+D:\leetcode-solves\majority-element\majority-element\obj\Debug\majority-element.exe
+D:\leetcode-solves\majority-element\majority-element\obj\Debug\majority-element.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\leetcode-solves\\majority-element\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AF15E4-3F62-491D-AE80-83F6667C0A3C}|majority-element\\majority-element.csproj|d:\\leetcode-solves\\majority-element\\majority-element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AF15E4-3F62-491D-AE80-83F6667C0A3C}|majority-element\\majority-element.csproj|solutionrelative:majority-element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\leetcode-solves\\majority-element\\majority-element\\Program.cs",
+              "RelativeDocumentMoniker": "majority-element\\Program.cs",
+              "ToolTip": "D:\\leetcode-solves\\majority-element\\majority-element\\Program.cs",
+              "RelativeToolTip": "majority-element\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T08:26:40.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
